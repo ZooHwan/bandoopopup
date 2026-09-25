@@ -272,9 +272,16 @@ body {
   font-weight: 400;
 }
 
+.hero-tagline {
+  margin: 20px 0 0;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
 .hero-description {
   max-width: 350px;
-  margin: 29px 0 25px;
+  margin: 12px 0 25px;
   color: #454545;
   font-size: 15px;
   line-height: 1.65;

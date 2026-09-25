@@ -44,8 +44,9 @@ export function BandooEventPage() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-line" /> A fashion pop-up in Los Angeles</p>
           <h1 id="hero-title">A new point<br />of <em>view.</em></h1>
+          <p className="hero-tagline">South Korea&apos;s new and trending brands.</p>
           <p className="hero-description">
-            South Korea&apos;s new and trending fashion brands, brought to Los Angeles.
+            Explore new styles, shop clothing, and stay for the party.
           </p>
           <a className="text-link" href="#about">
             Discover the pop-up <span aria-hidden="true">↓</span>
