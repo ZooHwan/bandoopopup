@@ -3,8 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Bandoo Pop-Up — Los Angeles',
+  description:
+    'Discover South Korea’s new and trending fashion brands at the Bandoo pop-up in Los Angeles on March 20, 2028. RSVP details coming later.',
   generator: 'v0.app',
   icons: {
     icon: [
